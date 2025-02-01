@@ -20,11 +20,11 @@ python snake.py
 
 ## How to Play
 - Controls
-    WASD to move the snake. 180 turns are not allowed!
+    + WASD to move the snake. 180 turns are not allowed!
 - Objectives
-    ~ Eat apples to grow and increase your score.
-    ~ Avoid the walls! (The edges of the game window are the walls)
-    ~ Don't eat yourself! (Running into yourself is a game over!)
+    + Eat apples to grow and increase your score.
+    + Avoid the walls! (The edges of the game window are the walls)
+    + Don't eat yourself! (Running into yourself is a game over!)
 
 ## Features
 Really more of a todo list:
