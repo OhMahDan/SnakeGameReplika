@@ -2,20 +2,20 @@
 A simple snake game written in Python using Pygame. Control a snake that grows as it eats apples.
 
 ## Table of Contents
-[Installation](#installation)
-[How to Play](#how-to-play)
-[Features](#features)
+[Installation](#installation)  
+[How to Play](#how-to-play)  
+[Features](#features)  
 [Future Improvements](#future-improvements)
 
 ## Installation
-1. Clone this repository:
-git clone https://github.com/OhMahDan/SnakeGameReplika.git
+1. Clone this repository:  
+git clone https://github.com/OhMahDan/SnakeGameReplika.git  
 cd SnakeGame
 
-2. Install dependencies:
+2. Install dependencies:  
 pip install pygame
 
-3. Run the game!
+3. Run the game!  
 python snake.py
 
 ## How to Play
@@ -37,14 +37,14 @@ Really more of a todo list:
 ⬜Multiplayer (???)  
 
 ## Future Improvements
-Current Bugs:
--Apple can rarely spawn inside the snake
+Current Bugs:  
+-Apple can rarely spawn inside the snake  
 -Eating apples and updating score and a new apple are delayed and not immediate, feels improper.
 
-Future Features:
-Game over Screen
-Improved visual graphics
-Introduce sound effects
-Power-ups?
-Difficulty settings??
+Future Features:  
+Game over Screen  
+Improved visual graphics  
+Introduce sound effects  
+Power-ups?  
+Difficulty settings??  
 Multiplayer???
