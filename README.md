@@ -27,14 +27,14 @@ python snake.py
     + Don't eat yourself! (Running into yourself is a game over!)
 
 ## Features
-Really more of a todo list:
-✔️Wall and self collision detection
-✔️Random apple placement
-✔️Score tracking
-⬜Game over screen
-⬜Improved foundational code
-⬜Power-ups (maybe?)
-⬜Multiplayer (???)
+Really more of a todo list:  
+✔️Wall and self collision detection  
+✔️Random apple placement  
+✔️Score tracking  
+⬜Game over screen  
+⬜Improved foundational code  
+⬜Power-ups (maybe?)  
+⬜Multiplayer (???)  
 
 ## Future Improvements
 Current Bugs:
